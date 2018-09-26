@@ -1,2 +1,2 @@
 # fangdi
-A simple spider for www.fangdi.cn
+A simple spider for www.fangdi.com.cn
